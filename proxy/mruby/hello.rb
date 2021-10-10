@@ -1,1 +1,1 @@
-Nginx::echo "Hello, ngx_mruby"
+Nginx::echo "Hello, World from ngx_mruby"
